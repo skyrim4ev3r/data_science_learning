@@ -20,3 +20,4 @@ hashmap = {"q": 1, "w":2}
 ser2 = pd.Series(hashmap)
 print(ser2)
 print(ser2[0])
+print(ser2.keys())
